@@ -1,7 +1,7 @@
-//Christine McIntee
-//June 28th 2023
-//Guessing Game
-//This program is a guessing game that the user can play as many times as they want.
+/*Programmer: Christine McIntee
+  Date: June 28th 2023
+  Program: Guessing Game
+  A number guessing game that keeps track of the player's stats.*/
 
 import java.util.*;
 
